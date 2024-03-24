@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-a{
+a:link{
     color: var(--text-color);
     text-decoration: none;
 }
@@ -74,6 +74,7 @@ a{
     text-transform: var(--section-tagline-transform);
     font-weight: var(--font-weight-bold);
 }
+
 
 a:visited{
     font-style: italic;
