@@ -74,6 +74,9 @@ a{
     text-transform: var(--section-tagline-transform);
     font-weight: var(--font-weight-bold);
 }
+a[href]{
+    /* hyperlink done */
+}
 
 a:visited{
     font-style: italic;
