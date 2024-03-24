@@ -69,6 +69,10 @@ a{
     color: var(--color-primary);
 }
 
+.section{
+    padding: var(--section-padding);
+}
+
 .section-header{
     text-align: var(--section-header-align);
     padding: var(--section-header-padding);
@@ -83,9 +87,6 @@ a{
     text-align: var(--section-footer-align);
 }
 
-.section{
-    padding: var(--section-padding);
-}
 
 .section-title{
     font-family: var(--font-family-title);
